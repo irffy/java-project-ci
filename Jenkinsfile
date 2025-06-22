@@ -10,6 +10,7 @@ pipeline {
     stages {
         stage('Debug: Environment Check') {
             steps {
+                echo '🔍 Testing Jenkins using git commit'
                 echo '🔍 Checking Java and workspace...'
                 sh 'echo JAVA VERSION: && java -version'
                 sh 'echo JAVAC VERSION: && javac -version'
