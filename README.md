@@ -256,12 +256,8 @@ Use the `https://xyz.ngrok.io` URL in the next step.
 2. Fill:
 
    * **Payload URL**:
-
-     ```
-
 [https://xyz.ngrok.io/github-webhook/](https://xyz.ngrok.io/github-webhook/)
 
-```
    - **Content type**: `application/json`
    - **Events**: `Just the push event`
 
