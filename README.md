@@ -258,7 +258,6 @@ Use the `https://xyz.ngrok.io` URL in the next step.
    * **Payload URL**:
 
      ```
-     ```
 
 [https://xyz.ngrok.io/github-webhook/](https://xyz.ngrok.io/github-webhook/)
 
