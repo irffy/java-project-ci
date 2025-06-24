@@ -280,6 +280,4 @@ You now have a fully functional Jenkins CI pipeline that:
 - Is triggered by GitHub webhooks
 - Runs locally but is exposed publicly via ngrok
 
-Let me know if you'd like to extend this with testing, deployment, or Docker builds!
-
 ```
